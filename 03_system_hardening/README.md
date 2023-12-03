@@ -1,1 +1,0 @@
-03_system_hardening

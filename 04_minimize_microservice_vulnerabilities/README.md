@@ -1,1 +1,0 @@
-04_minimize_microservice_vulnerabilities
