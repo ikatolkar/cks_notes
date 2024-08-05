@@ -1,3 +1,12 @@
-# Kernel Hardening Tools
+# System hardening - 15%
 
-# Reduce Attack Surface
+## Minimize host OS footprint (reduce attack surface)
+
+## Minimize IAM roles
+
+## Minimize external access to the network
+
+## Kernel Hardening Tools
+### Apparmor
+### Seccomp
+

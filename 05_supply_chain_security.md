@@ -1,7 +1,18 @@
-# Image Footprint
+# Supply Chain Security - 20%
 
-# Static Analysis
+## Minimize Image Footprint
 
-# Image vulnerability Scanning
 
-# Secure Supply Chain
+## Secure your supply chain
+
+### Whitelist allowed image registries
+
+### sign and validate images
+
+## Static Analysis of worklaods
+
+### kubernetes resources
+### docker files
+
+## Image vulnerability Scanning
+

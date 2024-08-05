@@ -1,4 +1,14 @@
 # CKS Notes
+
+## Best Github repo for CKS
+https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
+
+https://github.com/wuestkamp/Certified-Kubernetes-Security-Specialist
+
+
+## Killer CKS
+https://killercoda.com/killer-shell-cks
+
 ## Weightage
 
 TOPIC										%
@@ -55,4 +65,16 @@ TOPIC										%
 
 ## Resources
 
+https://github.com/wuestkamp/Certified-Kubernetes-Security-Specialist#urls-allowed-in-the-extra-single-tab
+
 https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist
+
+https://www.youtube.com/watch?v=wqsUfvRyYpw
+
+https://kubernetes.io/docs/tutorials/security/
+
+https://kubernetes.io/blog/2018/03/principles-of-container-app-design/
+
+https://www.microsoft.com/en-us/security/blog/2020/04/02/attack-matrix-kubernetes/
+
+https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/

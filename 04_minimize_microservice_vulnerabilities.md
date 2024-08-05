@@ -1,9 +1,13 @@
-# Manage Kubernetes Secrets
+# Minimize microservice vulnerabilities - 20%
 
-# Container Runtime Sandboxes
+## Setup appropriate OS level security domains
 
-# OS Level Security Domains
+## Manage Kubernetes Secrets
 
-# mTLS
+## Container Runtime Sandboxes in multi-tenant environments
+### gvisor
+### kata-containers
 
-# OPA
+## Implement pod to pod encryption by use of mTLS
+
+## OPA

@@ -1,8 +1,12 @@
-# RBAC
+# Cluster Hardening - 15%
 
-# Service Account Security
+## Restrict access to Kubernetes API
 
-# Restrict API Access
+## Use Role Based Access Control to minimize exposure
+
+## Service Account Security
+### Disable defaults
+### Minimize permissions on newly created ones
 
 # Upgrade Kubernetes
 

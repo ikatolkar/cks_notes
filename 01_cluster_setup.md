@@ -1,12 +1,14 @@
-# Network Policies
+# Cluster Setup - 10%
 
-# GUI - Kubernetes Dashboard
+## Use Network Policies to restrict cluster level access
 
-# Ingress Security
+## Use CIS benchmark to review the security configuration of Kubernetes components (etcd, kubectl, kubedns, kubeapi)
 
-# Node Metadata Protection
+## GUI - Kubernetes Dashboard
 
-# CIS Benchmarks
+## Ingress Security
 
-# Verify Platform Binaries
+## Node Metadata Protection
+
+## Verify Platform Binaries
 
